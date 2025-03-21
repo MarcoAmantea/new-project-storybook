@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&display=swap');
 
 html {
-    font-family: "Nunito", Arial, Helvetica, sans-serif;
+    font-family: "Big Shoulders Stencil", sans-serif;
 }
 
 body {
@@ -52,7 +52,7 @@ body {
 
 :where(p, .font-size-body) {
     font-size: var(--font-size-body);
-    margin-bottom: 1em;
+    margin-bottom: 0.25em;
     text-wrap: balance;
 }
 

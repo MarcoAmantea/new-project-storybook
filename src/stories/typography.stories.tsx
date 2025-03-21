@@ -13,7 +13,7 @@ export default meta;
 type Story = StoryObj<typeof meta>;
 export const defaultStory: Story = {
   args: {
-    children: "The drugs is on the table",
+    children: "tipografia di default",
   },
   render: ({ children }) => (
     <>
